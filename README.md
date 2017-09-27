@@ -12,3 +12,4 @@ My Likes on Github using this awesome extension
 ### September 27, 2017 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html) 
 - [New Tab](chrome://newtab/) 
+- [c# - Scope of static Variable in multi-user ASP.NET web application - Stack Overflow](https://stackoverflow.com/questions/14154892/scope-of-static-variable-in-multi-user-asp-net-web-application) 
