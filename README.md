@@ -15,3 +15,4 @@ My Likes on Github using this awesome extension
 - [c# - Scope of static Variable in multi-user ASP.NET web application - Stack Overflow](https://stackoverflow.com/questions/14154892/scope-of-static-variable-in-multi-user-asp-net-web-application) 
 - [c# - Are static class instances unique to a request or a server in ASP.NET? - Stack Overflow](https://stackoverflow.com/questions/194999/are-static-class-instances-unique-to-a-request-or-a-server-in-asp-net) 
 - [Using Application Domains | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/app-domains/use) 
+- [Application Domains](https://msdn.microsoft.com/en-us/library/cxk374d9.aspx) 
