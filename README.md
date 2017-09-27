@@ -11,3 +11,4 @@ My Likes on Github using this awesome extension
 
 ### September 27, 2017 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html) 
+- [New Tab](chrome://newtab/) 
