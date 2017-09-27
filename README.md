@@ -13,3 +13,4 @@ My Likes on Github using this awesome extension
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html) 
 - [New Tab](chrome://newtab/) 
 - [c# - Scope of static Variable in multi-user ASP.NET web application - Stack Overflow](https://stackoverflow.com/questions/14154892/scope-of-static-variable-in-multi-user-asp-net-web-application) 
+- [c# - Are static class instances unique to a request or a server in ASP.NET? - Stack Overflow](https://stackoverflow.com/questions/194999/are-static-class-instances-unique-to-a-request-or-a-server-in-asp-net) 
