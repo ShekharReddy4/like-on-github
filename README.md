@@ -25,3 +25,4 @@ My Likes on Github using this awesome extension
 - [GeoJSON - Wikiwand](https://www.wikiwand.com/en/GeoJSON) 
 - [More than you ever wanted to know about GeoJSON - macwright.org](https://macwright.org/2015/03/23/geojson-second-bite.html) 
 - [rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms) 
+- [Now anyone can explore machine learning, no coding required](https://www.blog.google/topics/machine-learning/now-anyone-can-explore-machine-learning-no-coding-required/) 
