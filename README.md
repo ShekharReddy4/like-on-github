@@ -23,3 +23,4 @@ My Likes on Github using this awesome extension
 ### October 5, 2017 
 - [pianos-around-the-world/pianos.geojson at master · IonicaBizau/pianos-around-the-world](https://github.com/IonicaBizau/pianos-around-the-world/blob/master/pianos.geojson) 
 - [GeoJSON - Wikiwand](https://www.wikiwand.com/en/GeoJSON) 
+- [More than you ever wanted to know about GeoJSON - macwright.org](https://macwright.org/2015/03/23/geojson-second-bite.html) 
