@@ -19,3 +19,6 @@ My Likes on Github using this awesome extension
 - [iis7 - Does IIS 7.5 use a separate "AppDomain" for each subdomain? - Webmasters Stack Exchange](https://webmasters.stackexchange.com/questions/72488/does-iis-7-5-use-a-separate-appdomain-for-each-subdomain) 
 - [ASP.NET Application Life Cycle Overview for IIS 7.0](https://msdn.microsoft.com/en-us/library/bb470252(v=vs.100).aspx) 
 - [How to: Create GenericPrincipal and GenericIdentity Objects | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/security/how-to-create-genericprincipal-and-genericidentity-objects) 
+
+### October 5, 2017 
+- [pianos-around-the-world/pianos.geojson at master · IonicaBizau/pianos-around-the-world](https://github.com/IonicaBizau/pianos-around-the-world/blob/master/pianos.geojson) 
