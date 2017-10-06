@@ -30,3 +30,4 @@ My Likes on Github using this awesome extension
 
 ### October 6, 2017 
 - [Arbitrary LaTeX reference](http://latex.knobs-dials.com/) 
+- [Semantic Versioning 2.0.0 | Semantic Versioning](http://semver.org/) 
