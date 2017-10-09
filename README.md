@@ -35,3 +35,4 @@ My Likes on Github using this awesome extension
 
 ### October 10, 2017 
 - [ADO.NET Tutorial for Beginners](https://blog.udemy.com/ado-net-tutorial/) 
+- [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax) 
