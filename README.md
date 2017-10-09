@@ -32,3 +32,6 @@ My Likes on Github using this awesome extension
 - [Arbitrary LaTeX reference](http://latex.knobs-dials.com/) 
 - [Semantic Versioning 2.0.0 | Semantic Versioning](http://semver.org/) 
 - [32578889 (420×420)](https://avatars2.githubusercontent.com/u/32578889) 
+
+### October 10, 2017 
+- [ADO.NET Tutorial for Beginners](https://blog.udemy.com/ado-net-tutorial/) 
