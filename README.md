@@ -37,3 +37,4 @@ My Likes on Github using this awesome extension
 - [ADO.NET Tutorial for Beginners](https://blog.udemy.com/ado-net-tutorial/) 
 - [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax) 
 - [GGK Asset Management](http://ams.ggktech.com/SNA/SNAAssets/AssetDetailsAndLogsView?assettblID=8) 
+- [rustd/AspnetIdentitySample](https://github.com/rustd/AspnetIdentitySample) 
