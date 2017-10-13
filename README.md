@@ -41,3 +41,4 @@ My Likes on Github using this awesome extension
 
 ### October 13, 2017 
 - [KMIT TV Beta](http://kmittv.com/#) 
+- [Introduction · You Don't Know JS](https://maximdenisov.gitbooks.io/you-don-t-know-js/content/) 
