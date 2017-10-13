@@ -38,3 +38,6 @@ My Likes on Github using this awesome extension
 - [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax) 
 - [GGK Asset Management](http://ams.ggktech.com/SNA/SNAAssets/AssetDetailsAndLogsView?assettblID=8) 
 - [rustd/AspnetIdentitySample](https://github.com/rustd/AspnetIdentitySample) 
+
+### October 13, 2017 
+- [KMIT TV Beta](http://kmittv.com/#) 
