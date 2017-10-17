@@ -12,6 +12,7 @@ My Likes on Github using this awesome extension
 - [Idnan/like-on-github: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-github) 
 - [ShekharReddy4/like-on-github: My Likes on Github using this awesome extension https://github.com/Idnan/like-on-github](https://github.com/shekharreddy4/like-on-github) 
 - [ResourceManager.GetObject Method (String) (System.Resources)](https://msdn.microsoft.com/en-us/library/963f81yd(v=vs.110).aspx) 
+- [Win32_LoggedOnUser class (Windows)](https://msdn.microsoft.com/en-us/library/aa394172(v=vs.85).aspx) 
 ### September 27, 2017 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html) 
 - [New Tab](chrome://newtab/) 
